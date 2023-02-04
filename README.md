@@ -1,12 +1,7 @@
-## Table of contents
-* [Presentation](#presentation)
-* [Project Info](#project-info)
-* [Study Summary](#study-summary)
+## Express.js API Project
+This project applies knowledge from building an Express.js API as an exercise from the course 'Complete NodeJS Developer in 2023'.
 
-## Presentation
-This is a project that applies knowledge of Express, Model View Controller (MVC) and Routes as exercises in the course 'Complete NodeJS Developer in 2023'
-
-## Project Info
+![Peek 04-02-2023 09-37](https://user-images.githubusercontent.com/73248516/216768255-f2d64f89-ce9b-4d22-962d-03d15e0ece72.gif)
 
 ## Study Summary
 This summary provides an overview of the study conducted on web development. It covers the main concepts and features learned during the study.
